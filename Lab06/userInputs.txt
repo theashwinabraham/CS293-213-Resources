@@ -1,0 +1,51 @@
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+MUMBAI CENTRAL  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+300  		$ Journey code again
+Excellent journey. Well worth the ticket price!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+MUMBAI CENTRAL  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+300  		$ Journey code again
+So-so journey. Undecided whether to recommend this to others.  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOKMANYA TILAK TERMINUS MUMBAI  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+320  		$ Journey code again
+Terrible journey. There were rats all over the compartment :-(  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOKMANYA TILAK  $ Part of source station name, with unique completion
+PUNE 	 	$ Part of destination station name, with unique completion
+320  		$ Journey code again
+Forgettable journey. Very unclean train and rude staff.  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOK TIL TERM	$ Part of source station name
+PUNE CANTONMENT $ Destination station name again
+320  		$ Journey code again
+Hopeless journey. Very unclean train and rude staff.  $ Short review for above journey
+140	    	$ Exit reading commands from file.
+
+

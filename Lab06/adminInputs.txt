@@ -1,0 +1,31 @@
+1        $ Enter/delete a station name
+11	 $ Enter a station name
+THANE JUNCTION	 $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+PUNE CANTONMENT	 $ Complete station name
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+280	 $ Value of journey code
+THANE JUNCTION	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+MUMBAI CENTRAL	 $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+LOKMANYA TILAK TERMINUS MUMBAI $ Complete station name
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+300	 $ Value of journey code
+MUMBAI CENTRAL	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+320	 $ Value of journey code
+LOKMANYA TILAK TERMINUS MUMBAI	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+4    	 $ Exit reading commands from file

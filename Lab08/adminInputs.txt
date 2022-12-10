@@ -1,0 +1,127 @@
+1        $ Enter/delete a station name
+11	 $ Enter a station name
+THANE JUNCTION	 $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+PUNE CANTONMENT	 $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+MUMBAI CENTRAL	 $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+KALYAN JUNCTION $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+NAGPUR CENTRAL $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+HOWRAH JUNCTION $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+ROURKELA JUNCTION $ Complete station name
+1        $ Enter/delete a station name again!
+11	 $ Enter a station name again!
+LOKMANYA TILAK TERMINUS MUMBAI $ Complete station name
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+280	 $ Value of journey code
+THANE JUNCTION	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+381	 $ Value of journey code
+THANE JUNCTION	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+300	 $ Value of journey code
+MUMBAI CENTRAL	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+320	 $ Value of journey code
+LOKMANYA TILAK TERMINUS MUMBAI	 $ Full name of source station for journey code above
+PUNE CANTONMENT  $ Full name of destination station for journey code above
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+131	 $ Value of journey code
+PUNE CANTONMENT	 $ Full name of source station for journey code above
+MUMBAI CENTRAL  $ Full name of destination station for journey code above
+6    		 $ Entering journey information, i.e. train schedule
+131		 $ Journey code, equivalent to train number
+3		 $ Count of stops, i.e. how many stations does this train stop at
+1100111		 $ Binary string indicating days of the week
+PUNE CANTONMENT  $ Full station name of starting station (stop 1)
+1    		 $ Day count, i.e. counting days from the start of journey
+-1               $ Arrival time: -1 for starting station
+1500		 $ Departure time from PUNE CANTONMENT
+THANE JUNCTION   $ Full station name of stop 2
+1                $ Day count, i.e. stopping at THANE JUNCTION on day 1 of journey
+1800		 $ Arrival time at THANE JUNCTION
+1815		 $ Departure time from THANE JUNCTION
+MUMBAI CENTRAL 	 $ Full station name of destination station (stop 3)
+1      		 $ Day count, i.e. stopping at MUMBAI CENTRAL on day 1 of journey
+2130		 $ Arrival time at MUMBAI CENTRAL
+-1		 $ Departure time: -1 for last station
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+231	 $ Value of journey code
+CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI $ Full name of source station for journey code above
+HOWRAH JUNCTION  $ Full name of destination station for journey code above
+6    		 $ Entering journey information, i.e. train schedule
+231		 $ Journey code, equivalent to train number
+6		 $ Count of stops, i.e. how many stations does this train stop at
+1000010		 $ Binary string indicating days of the week
+CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI $ Full station name of starting station (stop 1)
+1    		 $ Day count, i.e. counting days from the start of journey
+-1               $ Arrival time: -1 for starting station
+900		 $ Departure time from CSTM
+THANE JUNCTION   $ Full station name of stop 2
+1     		 $ Day count, i.e. stopping at THANE JUNCTION on day 1 of journe
+1030		 $ Arrival time at THANE JUNCTION
+1045		 $ Departure time from THANE JUNCTION
+KALYAN JUNCTION   $ Full station name of stop 3
+1                $ Day count, i.e. stopping at KALYAN JUNCTION on day 1 of journey
+1200		 $ Arrival time at KALYAN JUNCTION
+1215		 $ Departure time from KALYAN JUNCTION
+NAGPUR CENTRAL	 $ Full station name of stop 4
+2      		 $ Day count, i.e. stopping at NAGPUR CENTRAL on day 2 of journey
+600		 $ Arrival time at NAGPUR CENTRAL
+630		 $ Departure time from NAGPUR CENTRAL
+ROURKELA JUNCTION  $ Full station name of stop 5
+2      		 $ Day count, i.e. stopping at ROURKELA JUNCTION on day 2 of journey
+1800		 $ Arrival time at ROURKELA JUNCTION
+1830		 $ Departure time from ROURKELA JUNCTION
+HOWRAH JUNCTION	 $ Full station name of destination station (stop 6)
+3      		 $ Day count, i.e. reaching HOWRAH JUNCTION on day 3 of journey
+800		 $ Arrival time at HOWRAH JUNCTION
+-1		 $ Departure time: -1 for destination
+2    	 $ Enter/delete a journey code
+21	 $ Enter a journey code
+331	 $ Value of journey code
+LOKMANYA TILAK TERMINUS MUMBAI $ Full name of source station for journey code above
+HOWRAH JUNCTION  $ Full name of destination station for journey code above
+6    		 $ Entering journey information, i.e. train schedule
+331		 $ Journey code, equivalent to train number
+4		 $ Count of stops, i.e. how many stations does this train stop at
+1010111		 $ Binary string indicating days of the week
+LOKMANYA TILAK TERMINUS MUMBAI  $ Full station name of starting station (stop 1)
+1    		 $ Day count, i.e. counting days from the start of journey
+-1               $ Arrival time: -1 for starting station
+1900		 $ Departure time from PUNE CANTONMENT
+KALYAN JUNCTION   $ Full station name of stop 2
+1                $ Day count, i.e. stopping at KALYAN JUNCTION on day 1 of journey
+2200		 $ Arrival time at KALYAN JUNCTION
+2220		 $ Departure time from KALYAN JUNCTION
+NAGPUR CENTRAL 	 $ Full station name of stop 3
+2      		 $ Day count, i.e. stopping at NAGPUR CENTRAL on day 2 of journey
+830		 $ Arrival time at NAGPUR CENTRAL
+900		 $ Departure time from NAGPUR CENTRAL
+HOWRAH JUNCTION  $ Full station name of destination (stop 4)
+3      		 $ Day count, i.e. reaching HOWRAH JUNCTION on day 3 of journey
+600		 $ Arrival time at HOWRAH JUNCTION
+-1		 $ Departure time: -1 for final station
+4    	 	 $ Exit reading commands from file

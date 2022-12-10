@@ -1,0 +1,7 @@
+1000 Berlin 1300
+1200
+800 Gottingen 1200
+900 Berlin
+1200 Berlin
+1400 Frankfurt
+ERROR

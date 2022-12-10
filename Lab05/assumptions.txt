@@ -1,0 +1,7 @@
+NAME: ASHWIN ABRAHAM
+ROLL NO: 210050023
+
+I assumed in BST that totalParentChildUpdateCost will be incremented only when updateBSTParentChild is called.
+Since I never had the need to call it, totalParentChildUpdateCost is always 0.
+
+Also, I added a function in Tree.h returning the price of the TreeNode. This was so that I could return the price of the found node in BST::find

@@ -1,0 +1,8 @@
+run log
+1879
+3
+adminInputs.txt
+0
+1
+150
+TH

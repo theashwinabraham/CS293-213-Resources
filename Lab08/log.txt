@@ -1,0 +1,540 @@
+Executing "Read commands from file" 
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "THANE JUNCTION") in trie
+Successfully inserted "THANE" (for station name "THANE JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CANTONMENT" (for station name "PUNE CANTONMENT") in trie
+Successfully inserted "PUNE" (for station name "PUNE CANTONMENT") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CENTRAL" (for station name "MUMBAI CENTRAL") in trie
+Successfully inserted "MUMBAI" (for station name "MUMBAI CENTRAL") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "TERMINUS" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "MAHARAJ" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "SHIVAJI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "CHHATRAPATI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "KALYAN JUNCTION") in trie
+Successfully inserted "KALYAN" (for station name "KALYAN JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CENTRAL" (for station name "NAGPUR CENTRAL") in trie
+Successfully inserted "NAGPUR" (for station name "NAGPUR CENTRAL") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "HOWRAH JUNCTION") in trie
+Successfully inserted "HOWRAH" (for station name "HOWRAH JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "ROURKELA JUNCTION") in trie
+Successfully inserted "ROURKELA" (for station name "ROURKELA JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAI" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "TERMINUS" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "TILAK" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "LOKMANYA" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Enter/delete journey code"
+Executing "Enter journey code"
+Success
+Executing "Exit reading commands from file" 
+Success
+Executing "Exit admin user"
+Executing "Read commands from file" 
+Success
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 0
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 1
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 2
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 3
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 4
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 5
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 6
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 7
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 8
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 9
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 10
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 11
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 12
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 13
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 14
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 15
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 16
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 17
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 18
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 19
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 20
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 21
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 22
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 23
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 24
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 25
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 26
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 27
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 28
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 29
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: MUMBAI CENTRAL
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Excellent journey. Well worth the ticket price!
+Successfully added review 30
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: MUMBAI CENTRAL
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: So-so journey. Undecided whether to recommend this to others.
+Successfully added review 31
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: LOKMANYA TILAK TERMINUS MUMBAI
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. There were rats all over the compartment :-(
+Successfully added review 32
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: LOKMANYA TILAK TERMINUS MUMBAI
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Forgettable journey. Very unclean train and rude staff.
+Successfully added review 33
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: LOKMANYA TILAK TERMINUS MUMBAI
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Hopeless journey. Very unclean train and rude staff.
+Successfully added review 34
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 35
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 36
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 37
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 38
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 39
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 40
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 41
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 42
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 43
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 44
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 45
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 46
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 47
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 48
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 49
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 50
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 51
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 52
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 53
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 54
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 55
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 56
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 57
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 58
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 59
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 60
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 61
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Good journey. Will travel again!
+Successfully added review 62
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Terrible journey. Will not travel again by this train!
+Successfully added review 63
+Executing "Enter/delete review"
+Executing "Enter review"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Journey code matches source and destination pair
+Read review: Enjoyable journey with beautiful views ...
+Successfully added review 64
+Executing "Exit reading commands from file" 
+Success
+Executing "Find journeys"
+Chosen source station: THANE JUNCTION
+Chosen destination station: PUNE CANTONMENT
+Filtering reviews by rating
+Executing "Exit normal user"

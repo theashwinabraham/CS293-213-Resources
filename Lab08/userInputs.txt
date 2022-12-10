@@ -1,0 +1,458 @@
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+90		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+1		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+70		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+80		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+95		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+15		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+89		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+88		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+12		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+77		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+93		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+12		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+70		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+94		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+5		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+71		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+1		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+95		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+13		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+60		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+280  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+280  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+MUMBAI CENTRAL  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+300  		$ Journey code again
+80		$ Review Rating
+Excellent journey. Well worth the ticket price!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+MUMBAI CENTRAL  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+300  		$ Journey code again
+40		$ Review Rating
+So-so journey. Undecided whether to recommend this to others.  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOKMANYA TILAK TERMINUS MUMBAI  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+320  		$ Journey code again
+10		$ Review Rating
+Terrible journey. There were rats all over the compartment :-(  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOKMANYA TILAK  $ Part of source station name, with unique completion
+PUNE 	 	$ Part of destination station name, with unique completion
+320  		$ Journey code again
+3		$ Review Rating
+Forgettable journey. Very unclean train and rude staff.  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+LOK TIL TERM	$ Part of source station name
+PUNE CANTONMENT $ Destination station name again
+320  		$ Journey code again
+17		$ Review Rating
+Hopeless journey. Very unclean train and rude staff.  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+90		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+1		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+70		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+80		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+95		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+15		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+89		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+88		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+12		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+77		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+93		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+12		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+70		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+94		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+5		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+71		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+1		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+95		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+13		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+60		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name
+PUNE CANTONMENT $ Destination station name
+381  		$ Journey code
+82		$ Review Rating
+Good journey. Will travel again!  $ Short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+10		$ Review Rating
+Terrible journey. Will not travel again by this train!  $ New short review for above journey
+110		$ Enter/delete review
+111		$ Enter review
+THANE JUNCTION  $ Source station name again
+PUNE CANTONMENT $ Destination station name again
+381  		$ Journey code again
+75		$ Review Rating
+Enjoyable journey with beautiful views ...  $ Short review for above journey
+140	    	$ Exit reading commands from file.
+
+

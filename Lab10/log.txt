@@ -1,0 +1,68 @@
+Executing "Read commands from file" 
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CENTRAL" (for station name "AHMEDABAD CENTRAL") in trie
+Successfully inserted "AHMEDABAD" (for station name "AHMEDABAD CENTRAL") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "BHILAI JUNCTION") in trie
+Successfully inserted "BHILAI" (for station name "BHILAI JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "THANE JUNCTION") in trie
+Successfully inserted "THANE" (for station name "THANE JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CANTONMENT" (for station name "PUNE CANTONMENT") in trie
+Successfully inserted "PUNE" (for station name "PUNE CANTONMENT") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CENTRAL" (for station name "MUMBAI CENTRAL") in trie
+Successfully inserted "MUMBAI" (for station name "MUMBAI CENTRAL") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "TERMINUS" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "MAHARAJ" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "SHIVAJI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Successfully inserted "CHHATRAPATI" (for station name "CHHATRAPATI SHIVAJI MAHARAJ TERMINUS MUMBAI") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "KALYAN JUNCTION") in trie
+Successfully inserted "KALYAN" (for station name "KALYAN JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "CENTRAL" (for station name "NAGPUR CENTRAL") in trie
+Successfully inserted "NAGPUR" (for station name "NAGPUR CENTRAL") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "HOWRAH JUNCTION") in trie
+Successfully inserted "HOWRAH" (for station name "HOWRAH JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "JUNCTION" (for station name "ROURKELA JUNCTION") in trie
+Successfully inserted "ROURKELA" (for station name "ROURKELA JUNCTION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "MUMBAI" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "TERMINUS" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "TILAK" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Successfully inserted "LOKMANYA" (for station name "LOKMANYA TILAK TERMINUS MUMBAI") in trie
+Success
+Executing "Exit reading commands from file" 
+Success
+Executing "Exit admin user"
+Executing "Find direct journeys"
+Chosen source station: AHMEDABAD CENTRAL
+Chosen destination station: BHILAI JUNCTION

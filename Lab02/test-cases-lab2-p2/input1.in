@@ -1,0 +1,15 @@
+ADD Berlin 1300 Munich 1700
+ADD Gottingen 1000 Hannover 1100
+ADD Hannover 900 Berlin 1100
+ADD Munich 1400 Frankfurt 1800
+ADD Frankfurt 800 Gottingen 955
+ADD Munich 1200 Berlin 1600
+ADD Gottingen 1200 Munich 1600
+ADD Gottingen 1000 Berlin 1200
+QUERY_JOURNEY Gottingen 900 Munich
+QUERY_JOURNEY Gottingen 1100 Munich
+QUERY_JOURNEY Frankfurt 700 Munich
+QUERY_STATION Hannover 500
+QUERY_STATION Munich 500
+QUERY_JOURNEY Berlin 1000 Gottingen
+EXIT
