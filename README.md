@@ -23,4 +23,6 @@ The resources for CS 293 comprise of the lab problems given to us and my solutio
 - [Compensation Lab 2](./CompLab2/)
 - [Competitive Programming Test for AP](./CP_for_AP.pdf)
 
+- [Some Miscellaneous stuff](./Miscellaneous/)
+
 I hope these prove useful to you!

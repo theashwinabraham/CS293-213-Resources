@@ -1,6 +1,6 @@
 # DSA Slides from NPTEL
 
-NPTEL DSA programs discussed in video lectures by Dr. Naveen Garg.
+NPTEL DSA programs discussed in [video lectures](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) by Dr. Naveen Garg.
 
 - [lec1.pdf](./lec1.pdf)
 - [lec2.pdf](./lec2.pdf)
