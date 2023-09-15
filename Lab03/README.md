@@ -1,0 +1,17 @@
+# Lab 03
+
+- [Problem Statement](./problem.pdf)
+- [automated.cpp](./automated.cpp)
+- [BST.cpp](./BST.cpp)
+- [BST.h](./BST.h)
+- [interact.cpp](./interact.cpp)
+- [main.cpp](./main.cpp)
+- [Makefile](./Makefile)
+- [my_test.cpp](./my_test.cpp)
+- [patch_BST.cpp](./patch_BST.cpp)
+- [store.txt](./store.txt)
+- [test.ser](./test.ser)
+- [testcases](./testcases/)
+- [a.out](./a.out)
+- [automated](./automated)
+- [interact](./interact)

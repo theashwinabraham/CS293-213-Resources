@@ -1,0 +1,18 @@
+# Lab 07
+
+- [Problem Statement](./problem_statement.pdf)
+- [adminInputs.txt](./adminInputs.txt)
+- [codes.h](./codes.h)
+- [dictionary.cpp](./dictionary.cpp)
+- [dictionary.h](./dictionary.h)
+- [input.txt](./input.txt)
+- [kmp.cpp](./kmp.cpp)
+- [log.txt](./log.txt)
+- [main.cpp](./main.cpp)
+- [planner.cpp](./planner.cpp)
+- [planner.h](./planner.h)
+- [quicksort.cpp](./quicksort.cpp)
+- [std_headers.h](./std_headers.h)
+- [Trie.cpp](./Trie.cpp)
+- [Trie.h](./Trie.h)
+- [a.out](./a.out)

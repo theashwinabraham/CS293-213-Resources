@@ -1,2 +1,32 @@
-# NPTEL
+# DSA Slides from NPTEL
+
 NPTEL DSA programs discussed in video lectures by Dr. Naveen Garg.
+
+- [lec1.pdf](./lec1.pdf)
+- [lec2.pdf](./lec2.pdf)
+- [lec3.pdf](./lec3.pdf)
+- [lec4.pdf](./lec4.pdf)
+- [lec5.pdf](./lec5.pdf)
+- [lec6.pdf](./lec6.pdf)
+- [lec7.pdf](./lec7.pdf)
+- [lec8.pdf](./lec8.pdf)
+- [lec9.pdf](./lec9.pdf)
+- [lec10.pdf](./lec10.pdf)
+- [lec11.pdf](./lec11.pdf)
+- [lec12.pdf](./lec12.pdf)
+- [lec13.pdf](./lec13.pdf)
+- [lec14.pdf](./lec14.pdf)
+- [lec15.pdf](./lec15.pdf)
+- [lec16.pdf](./lec16.pdf)
+- [lec17.pdf](./lec17.pdf)
+- [lec18.pdf](./lec18.pdf)
+- [lec19.pdf](./lec19.pdf)
+- [lec20.pdf](./lec20.pdf)
+- [lec21.pdf](./lec21.pdf)
+- [lec22.pdf](./lec22.pdf)
+- [lec23.pdf](./lec23.pdf)
+- [lec24.pdf](./lec24.pdf)
+- [lec25.pdf](./lec25.pdf)
+- [Graphs](./graphs.pptx)
+- [Dijsktra's Algorithm](./dijkstra.pptx)
+- [Skiplists](./skiplists.pptx)
