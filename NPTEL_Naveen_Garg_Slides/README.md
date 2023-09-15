@@ -27,6 +27,5 @@ NPTEL DSA programs discussed in video lectures by Dr. Naveen Garg.
 - [lec23.pdf](./lec23.pdf)
 - [lec24.pdf](./lec24.pdf)
 - [lec25.pdf](./lec25.pdf)
-- [Graphs](./graphs.pptx)
-- [Dijsktra's Algorithm](./dijkstra.pptx)
-- [Skiplists](./skiplists.pptx)
+- [Graphs](./graphs.pdf)
+- [Dijsktra's Algorithm](./dijkstra.pdf)
